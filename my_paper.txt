@@ -1,5 +1,5 @@
 Author: Karl Garrison
-Title:
+Title: The Title
 
 Abstract:
 
