@@ -1,5 +1,5 @@
 Author: Karl Garrison
-Title: The Title
+Title: Conference 2014 Paper
 
 Abstract:
 
