@@ -1,4 +1,4 @@
-Author: Karl Garrison
+Author: Karl Garrison, Joe Schmoe
 Title: The Title
 
 Abstract:
