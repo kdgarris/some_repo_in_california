@@ -1,4 +1,4 @@
-Author: Karl Garrison
+Author: Joe Schmoe, Karl Garrison
 Title: Conference 2014 Paper
 
 Abstract:
